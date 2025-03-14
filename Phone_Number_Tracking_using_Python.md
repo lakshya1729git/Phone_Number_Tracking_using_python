@@ -34,9 +34,5 @@ In these documents I have removed my API key , you can use your generated one.
 
 
 Some demo insights ![image](https://github.com/user-attachments/assets/38fb6542-893e-4a75-a27a-992efd27d419)
-![image](https://github.com/user-attachments/assets/5be8624f-4910-4393-9e5f-a3e7152a73ab)
+![image](https://github.com/user-attachments/assets/5be8624f-4910-4393-9e5f-a3e7152a73ab
 
-
-![Screenshot 2025-03-14 204417](https://github.com/user-attachments/assets/faac61d4-3251-477e-ad99-94d31186d83a)
-![Screenshot 2025-03-14 204735](https://github.com/user-attachments/assets/ca28d235-1a34-4d16-bbac-25f5e43c05f8)
-![Screenshot 2025-03-14 204735](https://github.com/user-attachments/assets/958367fb-a6d7-4272-a6e9-2e89b054d3eb)
