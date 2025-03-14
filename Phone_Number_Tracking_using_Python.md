@@ -1,3 +1,4 @@
+![Screenshot 2025-03-14 204735](https://github.com/user-attachments/assets/c23a4a28-c837-44de-8791-a2cf2f350a98)
 # Phone_Number_Tracking_using_python
 A Python-based tool that identifies the geographical location (state/city), service provider (Jio, Airtel, etc.), and nearby mobile towers of a phone number. The project uses phonenumbers, Google Geocoding API, and Folium to fetch details and visualize the location on an interactive map.
 
